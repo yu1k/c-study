@@ -1,7 +1,11 @@
 # c-study
-Repository for studying C-language.
+
+C言語 勉強用リポジトリ。
 
 ## textbook
-I use e-learning textbooks.<br>
-N-yobikou, vantan-game-programming.<br>
+
+N予備校 Vantanゲームプログラミング
+
+リンク:
+
 https://www.nnn.ed.nico/courses/101/chapters
