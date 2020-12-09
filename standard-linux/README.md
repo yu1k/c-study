@@ -4,6 +4,8 @@
 
 Ubuntu18.04
 
+bashシェル
+
 ```
 $ sudo sh install.sh
 ```
