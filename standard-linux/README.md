@@ -7,6 +7,10 @@ Ubuntu18.04
 bashシェル
 
 ```
+$ git clone git@github.com:yu1k/c-study.git
+
+$ cd c-study/standard-linux
+
 $ sudo sh install.sh
 ```
 
