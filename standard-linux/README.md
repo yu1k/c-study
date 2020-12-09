@@ -1,4 +1,4 @@
-# ふつうのLinuxプログラミング準備
+# Linuxプログラミングの準備
 
 ```
 $ sudo sh install.sh
