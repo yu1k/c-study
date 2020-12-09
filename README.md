@@ -14,4 +14,4 @@ https://www.nnn.ed.nico/courses/101/chapters
 
 リンク:
 
-sbcr.jp/product/4797386479/
+https://sbcr.jp/product/4797386479/
