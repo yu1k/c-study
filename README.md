@@ -9,3 +9,9 @@ C言語 勉強用リポジトリ。
 リンク:
 
 https://www.nnn.ed.nico/courses/101/chapters
+
+### ふつうのLinuxプログラミング
+
+リンク:
+
+sbcr.jp/product/4797386479/
