@@ -1,7 +1,7 @@
-version: '3'
+version: "3"
 services:
-  app:
+  c-study:
     build: .
     tty: true
     volumes:
-      - .:/c-study
+      - ./:/home/c-study
